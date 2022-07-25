@@ -1,0 +1,225 @@
+
+          body { margin:0;
+            padding: 0; }
+              
+            .boxShadow{
+              box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+            }
+            
+            .purpleBox1 {
+              background-color: #D9DBFF;
+              color: black;
+              margin-left: 0px;
+              padding-left: 78px;
+              padding-top: 20px;
+              padding-bottom: 20px;
+              
+            }
+    
+            .purpleBox2 {
+              background-color: #E8E9FA;
+              color: black;
+              
+              padding-top: 5px;
+              padding-bottom:5px;
+              
+              
+            }
+    
+            .titleA{
+              color: black;
+              opacity: 0.48;
+              font-size: 4vw;
+              font-family: Verdana, sans-serif;
+              
+            }
+    
+            .titleB{
+              color: black;
+              opacity: 0.45;
+              font-size: 3vw;
+              font-family: verdana;
+            }
+  
+            
+            /* (Desktop)If the screen size is 601px wide or more, set the font-size of <div> to 80px */
+            @media screen and (min-width: 601px) {
+              .titleC{
+              color: black;
+              opacity: 0.45;
+              font-size: 14px;
+              font-family: verdana;
+             
+            }
+            }
+  
+            /* (Mobile)If the screen size is 600px wide or less, set the font-size of <div> to 30px */
+            @media screen and (max-width: 600px) {
+              .titleC{
+              color: black;
+              opacity: 0.45;
+              font-size: 20px;
+              font-family: verdana;
+             
+            }
+            }
+  
+            .columnB {
+              float: left;
+              width: 33.33%;
+              
+            }
+            .rowB{
+              text-align: center;
+           
+            }
+            /* Clear floats after the columns */
+            .rowB:after {
+              content: "";
+              display: table;
+              clear: both;
+             
+            }
+  
+            .titleD{
+              color: black;
+              opacity: 0.45;
+              font-size: 2vw;
+              font-family: verdana;
+              width: 70%;
+              text-align:center;
+              margin-left:15%;
+              margin-top: 5vw;
+            }
+            
+            
+  
+            .column {
+              float: left;
+              width: 33.33%;
+              
+            }
+            .row{
+              text-align: center;
+           
+            }
+            /* Clear floats after the columns */
+            .row:after {
+              content: "";
+              display: table;
+              clear: both;
+             
+            }
+  
+            .productsContainer{
+              margin-top: 5vw;
+              margin-left:15%;
+              width:70%;
+            }
+  
+            .ItemContainer{
+              display:block;
+              background-color: white;
+              box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+              /*width: 23vw;*/
+              width:90%;
+              margin-left:5%;
+              height: 90%;
+              margin-bottom:10%;
+              text-decoration:none;
+  
+            }
+  
+            .ItemImage{
+              /*width: 21vw;
+              padding:1vw;
+              */
+              width:95%;
+              height: 250px;
+  
+             
+              
+            }
+  
+            .titleE{
+              
+              height:30px;
+              color: black;
+              opacity: 0.45;
+              font-size: 20px;
+              font-family: verdana;
+             
+            }
+
+            .linkBox{
+                display:block;
+                text-decoration:none;
+                color: black;
+                
+                font-family: verdana;
+            }
+
+            .bold{
+                color: black;
+                font-weight: bold;
+                
+            }
+
+            .grid-container {
+                display: grid;
+                column-gap: 5px;
+                grid-template-columns: 80% 20%;
+                grid-template-rows: auto auto;
+                padding:1vw;
+            }
+
+            .gridItemleft{
+                    grid-column-start: 1;
+                    grid-column-end: 2;
+                     
+                      
+            }
+
+            .gridItemRight{
+                grid-column-start: 2;
+                grid-column-end: 3;    
+            }
+
+            .gridImage{
+                width:100px;
+                object-fit: contain;
+            }
+
+            .gridItemBottom{
+                grid-column-start: 1;
+                grid-column-end: 3;
+                grid-row-start:2;
+                grid-row-end:3;
+
+            }
+
+            .appButton1{
+                display:block;
+                text-align:center;
+                background-color:gray;
+
+            }
+
+            .FaceImage{
+              /*width: 21vw;
+              padding:1vw;
+              */
+              padding-left:5%;
+              padding-right:5%;
+              
+              padding-top: 5%;
+              height: 30vw;
+              display: block;
+              margin-left: auto;
+              margin-right: auto;
+              border-radius: 4px;
+  
+             
+              
+            }
+    
