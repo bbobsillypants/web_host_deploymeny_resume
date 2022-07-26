@@ -24,7 +24,7 @@ function Home(){
 
 <div class="titleD">About Me</div>
 
-<div class="titleD">Graduated From Metropolitan Community College in 2022 I am amateur and aspiring profesional Web Developer.
+<div class="titleD">I Graduated From Metropolitan Community College in 2022 I am amateur and aspiring profesional Web Developer.
 I've started learning about programming in High School, Java was my first language, and I've learned about JavaScript, SQL, and Python through my Full Stack Web Development major at
  Metropolitan Community College. I have created dynamic webpages using PHP and React.js. And I have knowledge and education
  in SQL servers and UI/UX design.
