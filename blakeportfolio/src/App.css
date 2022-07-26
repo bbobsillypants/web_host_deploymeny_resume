@@ -63,6 +63,23 @@
               margin-top: 5vw;
             }
 
+            .FaceImage{
+              
+              padding-left:5%;
+              padding-right:5%;
+              
+              padding-top: 5%;
+              height: 30vw;
+              display: block;
+              margin-left: auto;
+              margin-right: auto;
+              border-radius: 4px;
+  
+             
+              
+            }
+
+
             }
   
             /* (Mobile)If the screen size is 600px wide or less, set the font-size of <div> to 30px */
@@ -78,13 +95,30 @@
             .titleD{
               color: black;
               opacity: 0.45;
-              font-size: 2vw;
+              font-size: 3.75vw;
               font-family: verdana;
               width: 90%;
               text-align:center;
               margin-left:5%;
               margin-top: 5vw;
             }
+
+            .FaceImage{
+              
+              padding-left:5%;
+              padding-right:5%;
+              
+              padding-top: 5%;
+              height: 40vw;
+              display: block;
+              margin-left: auto;
+              margin-right: auto;
+              border-radius: 4px;
+  
+             
+              
+            }
+
 
             }
   
@@ -228,11 +262,11 @@
                 background-color:gray;
 
             }
-
+            /*
             .FaceImage{
               /*width: 21vw;
               padding:1vw;
-              */
+              *
               padding-left:5%;
               padding-right:5%;
               
@@ -246,4 +280,5 @@
              
               
             }
+            */
     
