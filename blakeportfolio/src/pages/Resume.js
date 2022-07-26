@@ -1,8 +1,3 @@
-import { useState,useEffect } from "react";
-import CardContainerColumn from "../components/ui/CardContainerColumn";
-import CardContainerRow from "../components/ui/CardContainerRow";
-import Header from "../components/ui/Header";
-import Card from "../components/ui/Card";
 
 
 function Resume(){

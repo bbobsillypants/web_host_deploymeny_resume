@@ -1,10 +1,5 @@
-import { useState,useEffect } from "react";
-import CardContainerColumn from "../components/ui/CardContainerColumn";
-import CardContainerRow from "../components/ui/CardContainerRow";
-import Header from "../components/ui/Header";
-import Card from "../components/ui/Card";
-import Calculator from "../components/Calculators";
-import React, {Component} from "react";
+
+import React from "react";
 
 import dinerA from "../images/CaptureHistory.jpg";
 import dinerB from "../images/CaptureSpecials.jpg";
