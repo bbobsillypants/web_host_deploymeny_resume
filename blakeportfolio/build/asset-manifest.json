@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.851c9096.css",
+    "main.js": "/static/js/main.8ec200ec.js",
+    "static/js/787.95d04271.chunk.js": "/static/js/787.95d04271.chunk.js",
+    "static/media/BlakeHead.jpg": "/static/media/BlakeHead.5d30187c7d2ca5f31da9.jpg",
+    "static/media/CaptureOnlineGradeReportPlusSqlClasses.jpg": "/static/media/CaptureOnlineGradeReportPlusSqlClasses.ab7b68bd29d76df80697.jpg",
+    "static/media/CaptureHistory.jpg": "/static/media/CaptureHistory.11fac083dc923fa34f33.jpg",
+    "static/media/Destinations.jpg": "/static/media/Destinations.49d11d540f746fe35ac3.jpg",
+    "static/media/CaptureSpecials.jpg": "/static/media/CaptureSpecials.7f87f1709e6140110af8.jpg",
+    "static/media/mobileViewDestinationPage.jpg": "/static/media/mobileViewDestinationPage.85321f3644e8589cfbb8.jpg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.851c9096.css.map": "/static/css/main.851c9096.css.map",
+    "main.8ec200ec.js.map": "/static/js/main.8ec200ec.js.map",
+    "787.95d04271.chunk.js.map": "/static/js/787.95d04271.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.851c9096.css",
+    "static/js/main.8ec200ec.js"
+  ]
+}
